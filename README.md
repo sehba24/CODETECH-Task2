@@ -1,4 +1,4 @@
-# CODETECH-Task2
+# CODTECH-Task2
 Name:Sehba Kacchi
 ID:CT6WDS1434
 Domain:Python Programming
